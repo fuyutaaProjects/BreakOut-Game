@@ -1,0 +1,24 @@
+.label {
+    -fx-text-fill: blue;
+}
+
+
+/* styles.css */
+
+.fissure-1 {
+    -fx-fill: #ff7b00;
+    -fx-stroke: #d9534f;
+    -fx-stroke-width: 2px;
+}
+
+.fissure-2 {
+    -fx-fill: #ff3e00;
+    -fx-stroke: #c9302c;
+    -fx-stroke-width: 4px;
+}
+
+.fissure-3 {
+    -fx-fill: #b22222;
+    -fx-stroke: #900000;
+    -fx-stroke-width: 6px;
+}
