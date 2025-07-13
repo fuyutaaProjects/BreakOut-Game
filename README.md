@@ -12,6 +12,10 @@ It serves as a practical demonstration of fundamental game development principle
 
 This project demonstrates strong skills in **Object-Oriented Programming (OOP)**, **game loop management**, **collision detection**, and **automated testing practices**.
 
+![preview 1](./Visual-TitleScreen.png)
+![preview 1](./Visual-InGame.png)
+
+The screenshots don't look like munch, but there are many features in the game :)
 
 ## Build instructions
 

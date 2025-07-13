@@ -73,7 +73,7 @@ public class BreakOut extends Application { // oui BreakOut ne peut pas etre abs
         // Définit la hauteur de la fenêtre
         Tstage.setHeight(height);
         // Définit le titre de la fenêtre
-        Tstage.setTitle("SPACEBREAKER");
+        Tstage.setTitle("BreakOut!");
 
         // Crée la première page "Title Screen"
         currentPage = new TitleScreen();

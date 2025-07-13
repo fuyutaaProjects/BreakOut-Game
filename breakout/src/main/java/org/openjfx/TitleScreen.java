@@ -48,7 +48,7 @@ public class TitleScreen extends BreakOut {
         root.setBackground(new Background(backgroundImage));
 
         // titre du jeu
-        Text title = new Text("SPACEBREAKER");
+        Text title = new Text("BreakOut!");
         title.setFill(Color.WHITE);
         title.setFont(Font.font(50));
         
